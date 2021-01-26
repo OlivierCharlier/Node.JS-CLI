@@ -1,0 +1,33 @@
+{
+  "name": "@olione/holidates",
+  "version": "1.0.1",
+  "bin": {
+    "holidates": "index.js"
+  },
+  "description": "projet1 node",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(hop);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OlivierCharlier/Node.JS-CLI.git"
+  },
+  "keywords": [
+    "dayoff"
+  ],
+  "author": "olione",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlivierCharlier/Node.JS-CLI/issues"
+  },
+  "homepage": "https://github.com/OlivierCharlier/Node.JS-CLI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "country-list": "^2.2.0",
+    "figlet": "^1.5.0",
+    "ora": "^5.3.0"
+  },
+  "devDependencies": {}
+}
